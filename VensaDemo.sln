@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vensa.Api", "Vensa.Api\Vensa.Api.csproj", "{E30CF85A-386C-4B7E-B12A-776453543D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vensa.Api.Tests", "Vensa.Api.Tests\Vensa.Api.Tests.csproj", "{383F6929-0F82-4653-A345-E97F95C64107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30CF85A-386C-4B7E-B12A-776453543D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30CF85A-386C-4B7E-B12A-776453543D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30CF85A-386C-4B7E-B12A-776453543D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30CF85A-386C-4B7E-B12A-776453543D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383F6929-0F82-4653-A345-E97F95C64107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383F6929-0F82-4653-A345-E97F95C64107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383F6929-0F82-4653-A345-E97F95C64107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383F6929-0F82-4653-A345-E97F95C64107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76703058-116F-4647-B46F-E5B764C1E8F5}
+	EndGlobalSection
+EndGlobal
